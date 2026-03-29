@@ -1,0 +1,21 @@
+Visual Paradigm link : https://online.visual-paradigm.com/w/ilmdhbxa/diagrams/#diagram:workspace=ilmdhbxa&proj=0&id=3&type=MindMapDiagram
+
+
+Trello dashboard link : https://trello.com/b/YEhU2f41
+
+
+Figma design link : https://www.figma.com/design/edRVmVpzSEzipse04vxgbg/K-Bobby--23-6113---Career-Recommendation?node-id=0-1&p=f&t=2RnOdVep6iCNkjmk-0
+
+
+Dataset link : https://www.kaggle.com/datasets/ministerjohn/career-path-prediction-for-different-fields
+
+
+Google Colab link : https://colab.research.google.com/drive/1a_f7RpZFsqnE7WVL-gkOFjPQW5uGQbQl
+
+
+Tableau dashboard : https://public.tableau.com/app/profile/bobby.karri2926/viz/AAITMAINDASHBOARD/MainDashboard?publish=yes 
+
+
+GitHub link : https://github.com/karribobby/AI-Career-Recommendation-System-Using-Machine-Learning-
+
+
