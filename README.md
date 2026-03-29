@@ -7,6 +7,8 @@ This project predicts suitable career paths for students based on their academic
 
 ## Team Members
 - K Bobby (23NA1A6113)
+- G Siri Vennela (23NA1A6117)
+- C Guru Vamshi (23NA1A6155)
 
 ## Tools Used
 | Tool | Purpose |
